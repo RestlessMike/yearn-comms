@@ -9,7 +9,7 @@ author: Weaver
 translator: RestlessMik3
 ---
 
-![](cover.jpg?w=900&h=450)
+![](cover-es.jpg?w=900&h=450)
 
 Hemos escuchado que la gente está vendiendo.
 
